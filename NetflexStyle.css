@@ -1,0 +1,38 @@
+
+body {
+background-color:red;
+   font-family: "Forgotts";
+   font-size: 15em;
+}
+
+
+todolist {
+font-family: "Calibri";
+font-size: .08em;
+color: white;
+}
+
+footer {
+font-family: "Calibri";
+font-size: .08em;
+color: white;
+background-color:black;
+height: auto;
+max-height:100px;
+clear:top;
+left:0;
+bottom:0;
+position:absolute;
+width:100%;
+padding-top:15px;
+padding-bottom:15px;
+}
+
+
+
+@font-face {
+  font-family: 'Forgotts';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Forgotts'), url('forgotts.otf') format('opentype');
+}
