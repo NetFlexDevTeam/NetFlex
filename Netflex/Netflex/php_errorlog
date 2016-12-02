@@ -1,0 +1,18 @@
+[07-Nov-2016 10:42:53 CST6CDT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deberar9/public_html/Netflex/Netflex.php on line 11
+[07-Nov-2016 10:49:05 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/deberar9/public_html/Netflex/Netflex.php on line 47
+[09-Nov-2016 14:47:12 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/deberar9/public_html/Netflex/Netflex.php on line 6
+[09-Nov-2016 14:47:27 CST6CDT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deberar9/public_html/Netflex/Netflex.php on line 8
+[09-Nov-2016 14:48:11 CST6CDT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deberar9/public_html/Netflex/Netflex.php on line 10
+[09-Nov-2016 14:48:11 CST6CDT] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/deberar9/public_html/Netflex/Netflex.php on line 11
+[09-Nov-2016 14:48:36 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/deberar9/public_html/Netflex/Netflex.php on line 11
+[09-Nov-2016 15:22:20 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/deberar9/public_html/Netflex/Netflex.php on line 370
+[09-Nov-2016 15:22:21 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/deberar9/public_html/Netflex/Netflex.php on line 370
+[15-Nov-2016 14:57:49 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/deberar9/public_html/Netflex/Netflex.php on line 502
+[28-Nov-2016 15:26:47 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/deberar9/public_html/Netflex/Netflex.php on line 327
+[28-Nov-2016 19:51:35 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/deberar9/public_html/Netflex/Netflex.php on line 808
+[28-Nov-2016 19:51:57 CST6CDT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/deberar9/public_html/Netflex/Netflex.php on line 645
+[28-Nov-2016 19:52:19 CST6CDT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/deberar9/public_html/Netflex/Netflex.php on line 645
+[28-Nov-2016 19:53:57 CST6CDT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/deberar9/public_html/Netflex/Netflex.php on line 645
+[28-Nov-2016 19:54:06 CST6CDT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/deberar9/public_html/Netflex/Netflex.php on line 645
+[01-Dec-2016 17:53:57 CST6CDT] PHP Fatal error:  Call to a member function query() on null in /home/deberar9/public_html/Netflex/Netflex.php on line 538
+[01-Dec-2016 17:55:55 CST6CDT] PHP Fatal error:  Call to a member function query() on null in /home/deberar9/public_html/Netflex/Netflex.php on line 538
